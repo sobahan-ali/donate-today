@@ -69,3 +69,25 @@
     background-image: linear-gradient(tomato, orange);
     border-radius: 10px;
 }
+
+.plan-text{
+    width: 40%;
+    text-align: center;  
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.plan-items{
+   display: flex;
+}
+
+#item-1{
+    widows: 360px;
+    height: 350px;
+    background-color: #4F9DA6
+    ;
+}
+#item-1 img{
+    widows: 60px;
+    height: 50px;
+}
