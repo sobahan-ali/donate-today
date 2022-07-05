@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    font-family: 'Gantari', sans-serif;
+}
+.top-banner{
+   background-image: url(../images/donation8.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+   
+   
+    
+}
+.top-banner img{
+    width: max-content;
+}
+
+
+.banner-text{
+    color: whitesmoke;
+}
